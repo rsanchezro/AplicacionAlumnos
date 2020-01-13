@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="a0">
+        <item>5131</item>
+        <item>Martínez Lozano, Víctor Miguel</item>
+        <item>5131.jpg</item>
+    </array>
+    <array name="a1">
+        <item>9165</item>
+        <item>Moyano Clemente, Álvaro</item>
+        <item>9165.jpg</item>
+    </array>
+    <array name="a2">
+        <item>9211</item>
+        <item>Asensio Mucientes, Lucía</item>
+        <item>9211.jpg</item>
+    </array>
+    <array name="a3">
+        <item>9497</item>
+        <item>Álvarez Villegas, Laura</item>
+        <item>9497.jpg</item>
+    </array>
+    <array name="a4">
+        <item>9498</item>
+        <item>Calleja Zurro, Fernando</item>
+        <item>9498.jpg</item>
+    </array>
+    <array name="a5">
+        <item>9500</item>
+        <item>Diez Placer, David</item>
+        <item>9500.jpg</item>
+    </array>
+    <array name="a6">
+        <item>9501</item>
+        <item>Figueroa Díaz, Bryan Alexi</item>
+        <item>9501.jpg</item>
+    </array>
+    <array name="a7">
+        <item>9502</item>
+        <item>García Mínguez, Diego</item>
+        <item>9502.jpg</item>
+    </array>
+    <array name="a8">
+        <item>9503</item>
+        <item>Gómez Moro, Claudio</item>
+        <item>9503.jpg</item>
+    </array>
+    <array name="a9">
+        <item>9506</item>
+        <item>Vicente Martín, Guillermo</item>
+        <item>9506.jpg</item>
+    </array>
+    <array name="a10">
+        <item>9585</item>
+        <item>Sarmiento Noguerol, Carlos</item>
+        <item>9585.jpg</item>
+    </array>
+    <array name="a11">
+        <item>9586</item>
+        <item>Bermejo López, María Teresa</item>
+        <item>9586.jpg</item>
+    </array>
+    <array name="a12">
+        <item>9587</item>
+        <item>Calderón Moreno, Álvaro</item>
+        <item>9587.jpg</item>
+    </array>
+    <array name="a13">
+        <item>9588</item>
+        <item>Hernández Pérez, Jesús Antonio</item>
+        <item>9588.jpg</item>
+    </array>
+    <array name="a14">
+        <item>9591</item>
+        <item>Conde Polo, José</item>
+        <item>9591.jpg</item>
+    </array>
+<array name="a15">
+        <item>9593</item>
+        <item>Zhuma Lozano, Isaac Nehemias</item>
+        <item>9593.jpg</item>
+    </array>
+<array name="a16">
+        <item>9604</item>
+        <item>Benavides Bazán, Alejandro Manuel</item>
+        <item>9604.jpg</item>
+    </array>
+<array name="a17">
+        <item>9637</item>
+        <item>González Rodríguez, Daniel</item>
+        <item>9637.jpg</item>
+    </array>
+<array name="a18">
+        <item>9765</item>
+        <item>Escobar Ventura, María Luisa</item>
+        <item>9765.jpg</item>
+    </array>
+<array name="a19">
+        <item>9770</item>
+        <item>Salviejo Guadilla, David</item>
+        <item>9770.jpg</item>
+    </array>
+<array name="a20">
+        <item>9778</item>
+        <item>Martín Bayo, Ian</item>
+        <item>9778.jpg</item>
+    </array>
+<array name="a21">
+        <item>9780</item>
+        <item>Álvarez Avedillo, Álex</item>
+        <item>9780.jpg</item>
+    </array>
+<array name="a22">
+        <item>9783</item>
+        <item>Calle Santiago, Alberto</item>
+        <item>9783.jpg</item>
+    </array>
+    <array name="array_datos_alumnos_GBD">
+        <item>@array/a0</item>
+        <item>@array/a1</item>
+        <item>@array/a2</item>
+        <item>@array/a3</item>
+        <item>@array/a4</item>
+        <item>@array/a5</item>
+        <item>@array/a6</item>
+        <item>@array/a7</item>
+        <item>@array/a8</item>
+        <item>@array/a9</item>
+        <item>@array/a10</item>
+        <item>@array/a11</item>
+        <item>@array/a12</item>
+        <item>@array/a13</item>
+        <item>@array/a14</item>
+        <item>@array/a15</item>
+        <item>@array/a16</item>
+        <item>@array/a17</item>
+        <item>@array/a18</item>
+        <item>@array/a19</item>
+        <item>@array/a20</item>
+        <item>@array/a21</item>
+        <item>@array/a22</item>
+
+    </array>
+</resources>
